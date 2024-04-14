@@ -8,5 +8,7 @@ Text was added localy
 
 Text in the new branch
 
-Creating a conflict
+Creating a conflict localy
+
+
 
