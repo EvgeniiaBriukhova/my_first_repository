@@ -4,3 +4,4 @@ New text was added
 
 Text was added through browser
 
+Text was added localy
